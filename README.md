@@ -58,3 +58,6 @@ Welcome to our machine learning project focused on predicting customer churn in 
 
 - **🚀 Streamlit Web App**:  
   [View on streamlit](https://telcocustomeralpha.streamlit.app/)
+
+## Presentation Slides
+[View Presentation](https://www.canva.com/design/DAGuEK8nxeI/h5dfKp5EgPU0Mtyn4CY7GQ/editutm_content=DAGuEK8nxeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
